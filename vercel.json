@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/**/*.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/api/webhook", "dest": "api/webhook.py" },
+    { "src": "/api/scheduled/random", "dest": "api/scheduled/random.py" },
+    { "src": "/api/scheduled/prayer", "dest": "api/scheduled/prayer.py" },
+    { "src": "/api/status", "dest": "api/status.py" },
+    { "src": "/(.*)", "dest": "api/webhook.py" }
+  ]
+}

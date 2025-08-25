@@ -1,0 +1,42 @@
+2025-08-25 07:05:25,164 - __main__ - INFO - تم تحميل 10 مجموعة نشطة
+2025-08-25 07:05:25,168 - __main__ - INFO - 🚀 بدء تشغيل البوت على Replit...
+2025-08-25 07:05:25,168 - __main__ - INFO - 🚀 بدء تشغيل بوت الأذكار الإسلامية على Replit...
+2025-08-25 07:05:25,501 - __main__ - INFO - ✅ البوت متصل: @Mouslim_alarm_bot
+2025-08-25 07:05:25,503 - apscheduler.scheduler - INFO - Scheduler started
+2025-08-25 07:05:25,505 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_random_content" to job store "default"
+2025-08-25 07:05:25,512 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_random_content" to job store "default"
+2025-08-25 07:05:25,532 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_morning_azkar" to job store "default"
+2025-08-25 07:05:25,535 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_morning_azkar" to job store "default"
+2025-08-25 07:05:25,541 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_morning_azkar" to job store "default"
+2025-08-25 07:05:25,544 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_evening_azkar" to job store "default"
+2025-08-25 07:05:25,549 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_evening_azkar" to job store "default"
+2025-08-25 07:05:25,553 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_evening_azkar" to job store "default"
+2025-08-25 07:05:25,564 - apscheduler.scheduler - INFO - Added job "AzkarBot.schedule_prayer_notifications" to job store "default"
+2025-08-25 07:05:25,571 - __main__ - INFO - ✅ تم إعداد الجدولة بنجاح
+2025-08-25 07:05:26,013 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_prayer_notification" to job store "default"
+2025-08-25 07:05:26,015 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_after_prayer_image" to job store "default"
+2025-08-25 07:05:26,018 - __main__ - INFO - جُدولت صلاة Fajr في 2025-08-26 04:51:00+03:00
+2025-08-25 07:05:26,023 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_prayer_notification" to job store "default"
+2025-08-25 07:05:26,024 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_after_prayer_image" to job store "default"
+2025-08-25 07:05:26,024 - __main__ - INFO - جُدولت صلاة Dhuhr في 2025-08-25 12:52:00+03:00
+2025-08-25 07:05:26,025 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_prayer_notification" to job store "default"
+2025-08-25 07:05:26,033 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_after_prayer_image" to job store "default"
+2025-08-25 07:05:26,034 - __main__ - INFO - جُدولت صلاة Asr في 2025-08-25 16:28:00+03:00
+2025-08-25 07:05:26,035 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_prayer_notification" to job store "default"
+2025-08-25 07:05:26,036 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_after_prayer_image" to job store "default"
+2025-08-25 07:05:26,040 - __main__ - INFO - جُدولت صلاة Maghrib في 2025-08-25 19:20:00+03:00
+2025-08-25 07:05:26,045 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_prayer_notification" to job store "default"
+2025-08-25 07:05:26,047 - apscheduler.scheduler - INFO - Added job "AzkarBot.send_after_prayer_image" to job store "default"
+2025-08-25 07:05:26,051 - __main__ - INFO - جُدولت صلاة Isha في 2025-08-25 20:50:00+03:00
+2025-08-25 07:05:26,052 - __main__ - INFO - ✅ البوت يعمل الآن مع 10 مجموعة نشطة
+2025-08-25 07:05:26,052 - __main__ - INFO - 🔄 بدء معالجة الرسائل...
+2025-08-25 07:05:31,488 - __main__ - INFO - تم استقبال إشارة الإيقاف: 15
+2025-08-25 07:05:32,247 - __main__ - INFO - تم إيقاف معالجة الرسائل
+2025-08-25 07:05:32,249 - __main__ - INFO - تم إيقاف الجدولة
+2025-08-25 07:05:32,254 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-08-25 07:05:32,265 - __main__ - INFO - تم إغلاق جلسة HTTP
+2025-08-25 07:05:32,274 - __main__ - INFO - تم حفظ 10 مجموعة نشطة
+2025-08-25 07:05:32,276 - __main__ - INFO - تم حفظ البيانات النهائي
+2025-08-25 07:05:32,296 - __main__ - INFO - تم حفظ 10 مجموعة نشطة
+2025-08-25 07:05:32,301 - __main__ - INFO - تم حفظ البيانات النهائي
+2025-08-25 07:05:32,301 - __main__ - INFO - 🔚 تم إنهاء البوت
