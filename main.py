@@ -958,6 +958,11 @@ class AzkarBot:
 # تشغيل البوت
 async def main():
     """الدالة الرئيسية"""
+    # Guard: do not start polling by default when running in serverless environments (Vercel)
+    if os.environ.get('POLLING', '0') != '1':
+        logger.info("Polling is disabled because POLLING!=1. To enable polling set POLLING=1 and run the script.")
+        return
+
     bot = AzkarBot()
 
     try:
